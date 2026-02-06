@@ -212,13 +212,4 @@ employee_API/
 
 ---
 
-
-## Contact
-
-**Venithraa Ganesan**  
-Email: venithraaganesan@gmail.com  
-Phone: +91 6281339264
-
----
-
 **Repository**: https://github.com/venithraa/employee_API
