@@ -169,42 +169,49 @@ employee_API/
 
 **Swagger UI - All Endpoints:**
 
-![Swagger UI Homepage](https://github.com/user-attachments/assets/70c960ec-09af-4412-b95b-5f00bcc9ee76)
+<img width="1351" height="656" alt="Screenshot 2026-02-06 103643" src="https://github.com/user-attachments/assets/adcf9f6e-2fb0-4855-8a02-571a45b1d645" />
+
+
 
 **Successful POST Request (201 Created):**
 
-![POST Success](https://github.com/user-attachments/assets/18dfdef4-67ae-4e84-be42-1aafcce51a89)
+<img width="1287" height="551" alt="Screenshot 2026-02-06 085106" src="https://github.com/user-attachments/assets/e99dcae1-9239-4500-954e-7155f892793c" />
+
+
 
 **GET All Employees:**
 
-![GET All](https://github.com/user-attachments/assets/ea2427b0-4bcb-452f-9e03-11bbff259551)
+<img width="1309" height="438" alt="Screenshot 2026-02-06 104225" src="https://github.com/user-attachments/assets/771babc2-cebc-4f5f-b922-433e8181faa0" />
+<img width="1287" height="551" alt="Screenshot 2026-02-06 085106" src="https://github.com/user-attachments/assets/ccad53f8-8435-465f-ae94-e5a28c95ceca" />
+
+
 
 **Validation Error (422):**
 
-![Validation Error](https://github.com/user-attachments/assets/32d0e2ad-1e8a-4f40-837c-3ef491c90e55)
+<img width="1264" height="628" alt="Screenshot 2026-02-06 104628" src="https://github.com/user-attachments/assets/a9b77db5-1911-43ae-991d-13d91222870c" />
+
+
 
 **Duplicate Email Error (400):**
 
-![Duplicate Email](https://github.com/user-attachments/assets/cb8edf92-d5ed-4e04-bd50-b7e9d0dfdc53)
+<img width="1260" height="336" alt="Screenshot 2026-02-06 085728" src="https://github.com/user-attachments/assets/bb02cae8-4abc-47a9-ada3-20e6ec1472b3" />
+
+
 
 **Search Functionality:**
 
-![Search](https://github.com/user-attachments/assets/02bd6634-505a-4ea6-bc92-4e763ef1d5dc)
+<img width="1356" height="569" alt="Screenshot 2026-02-06 104733" src="https://github.com/user-attachments/assets/55e9109e-ae6f-4717-9d21-12892d53a817" />
+<img width="1307" height="561" alt="Screenshot 2026-02-06 104800" src="https://github.com/user-attachments/assets/1b833c1a-f75d-4eb1-b134-5d753180da11" />
+
+
 
 **MySQL Database:**
 
-![MySQL Data](https://github.com/user-attachments/assets/a3455a0f-3ec5-4d14-9fc9-71ec2654e406)
+<img width="1365" height="674" alt="Screenshot 2026-02-06 104945" src="https://github.com/user-attachments/assets/fb6915f5-37ea-4147-8e66-171274195c1d" />
+
 
 ---
 
-## Configuration
-
-Create `.env` file:
-```env
-DATABASE_URL=mysql+pymysql://root:YOUR_PASSWORD@localhost/promon_employee_db
-```
-
----
 
 ## Contact
 
