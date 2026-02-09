@@ -3,7 +3,7 @@ from app.main import app
 import random
 import string
 
-client = TestClient(app)
+client = TestClient(app=app)
 
 def random_email():
     """Generate a random email for testing"""
